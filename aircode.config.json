@@ -1,0 +1,10 @@
+{
+  "name": "Serverless e-commerce backend REST API",
+  "runtime": "node/v18",
+  "retion": "US",
+  "envs": [
+    "ACCESS_TOKEN",
+    "SECRET_KEY"
+  ],
+  "typescript": false
+}
